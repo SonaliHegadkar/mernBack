@@ -16,14 +16,14 @@
 ... (repeat steps for the server directory) ...
    Deployment
 
-* Frontend: Deployed on Netlify: https://your-netlify-site.netlify.app
-* Backend: Deployed on Heroku: https://your-heroku-app.herokuapp.com
+* Frontend: Deployed on Netlify:(https://endearing-cocada-7cae78.netlify.app/)
+* Backend: Deployed on render:(https://mernback-gp1p.onrender.com)
 
  API Endpoints
 
-* /register: POST - Register a new user
-* /login: POST - Login a user
-* /events: GET - Get all events
-* /events: POST - Create a new event
+* /register: POST - 
+* /login: POST - 
+* /events: GET - 
+* /events: POST -
 
  Test User Credentials
