@@ -1,0 +1,6 @@
+npm  i express mongoose cors dotenv validator
+express - it is node js framework  easy to used a nodejs work with help of expressJs
+mongoose - used for a database connnection
+cores -frontend backend connect used a cors
+dotenv-secrete variable used adotenv
+validator-email validation
