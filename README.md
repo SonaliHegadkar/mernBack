@@ -8,7 +8,7 @@
 
  Installation
 
-1. Clone the repository: git clone https://github.com/yourusername/event-management-platform.git
+1. Clone the repository: git clone (https://github.com/SonaliHegadkar/mernBack.git)
 2. Navigate to the client directory: cd client
 3. Install dependencies: npm install
 4. Start the development server: npm start
